@@ -1,0 +1,3 @@
+package vulns
+
+func Vulnerable() {}
